@@ -11,3 +11,5 @@ I am CS student on his final year, learning and practicing fullstack web develop
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" height="50" width="50" />
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" height="50" width="50" />
 </div>
+<h3>📊 Stats</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nusretWazowski)](https://git.io/streak-stats)
