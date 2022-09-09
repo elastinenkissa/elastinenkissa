@@ -13,5 +13,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 </div>
 <h3>📊 Stats</h3>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=nusretWazowski)
+</div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nusretWazowski&theme=dark)](https://git.io/streak-stats)
