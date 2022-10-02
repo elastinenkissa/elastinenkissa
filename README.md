@@ -2,7 +2,7 @@
 <h3>👨‍💻 About me</h3>
 I am CS student on my final year of study, learning and practicing fullstack web development. Currently working on personal projects to improve my skills and looking for my first job as a developer. You can reach me through the LinkedIn link in my bio.
 <hr />
-<h3>💻 Skills</h3>
+<h3>💻 Skills</h3> 
 <div>
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" />
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" />
