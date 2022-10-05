@@ -5,7 +5,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <h3>💻 Skills</h3> 
 <div>
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" />
+<!-- <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" /> -->
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="50" width="50" alt="react" />
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="50" alt="redux" />
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="node" />
