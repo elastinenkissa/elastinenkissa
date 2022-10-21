@@ -4,7 +4,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr /> 
 <h3>💻 Skills</h3> 
 <div>
-<img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript&logoColor=white" />
  <img src="https://img.shields.io/badge/REACT-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux" />
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=node-js" />
