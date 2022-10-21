@@ -10,17 +10,8 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=Node.js" />
  <img src="https://img.shields.io/badge/EXPRESS-282a35?style=for-the-badge&logo=express" />
  <img src="https://img.shields.io/badge/MONGODB-282a35?style=for-the-badge&logo=mongodb" />
- <img src="https://img.shields.io/badge/PHOTOSHOP-282a35?style=for-the-badge&logo=photoshop" />
- <img src="https://img.shields.io/badge/illustrator-282a35?style=for-the-badge&logo=illustrator" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" />
-<!-- <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" /> -->
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="50" width="50" alt="react" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" height="50" width="50" alt="redux" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="node" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" height="50" width="50" alt="express" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="mongodb" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" height="50" width="50" alt="photoshop" />
-<img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" height="50" width="50" alt="illustrator" />
+ <img src="https://img.shields.io/badge/PHOTOSHOP-282a35?style=for-the-badge&logo=Adobe Photoshop" />
+ <img src="https://img.shields.io/badge/illustrator-282a35?style=for-the-badge&logo=Adobe Illustrator" />
 </div>
 <hr />
 <h3>📊 Stats</h3>
