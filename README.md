@@ -3,15 +3,13 @@
 I am CS student on my final year of study, learning and practicing fullstack web development. Currently working on personal projects to improve my skills and looking for my first job as a developer. You can reach me through the LinkedIn link in my bio.
 <hr /> 
 <h3>💻 Skills</h3> 
-<div style="display: flex; flex-direction: column;">
+<div>
 <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
  <img src="https://img.shields.io/badge/REACT-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux&logoColor=764ABC" />
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=Node.js" />
  <img src="https://img.shields.io/badge/EXPRESS-282a35?style=for-the-badge&logo=express" />
  <img src="https://img.shields.io/badge/MONGODB-282a35?style=for-the-badge&logo=mongodb" />
- <img src="https://img.shields.io/badge/PHOTOSHOP-282a35?style=for-the-badge&logo=Adobe Photoshop" />
- <img src="https://img.shields.io/badge/illustrator-282a35?style=for-the-badge&logo=Adobe Illustrator" />
 </div>
 <hr />
 <h3>📊 Stats</h3>
