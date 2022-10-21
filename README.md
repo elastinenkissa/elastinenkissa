@@ -3,7 +3,7 @@
 I am CS student on my final year of study, learning and practicing fullstack web development. Currently working on personal projects to improve my skills and looking for my first job as a developer. You can reach me through the LinkedIn link in my bio.
 <hr /> 
 <h3>💻 Skills</h3> 
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-direction: column;">
 <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
  <img src="https://img.shields.io/badge/REACT-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux&logoColor=764ABC" />
