@@ -5,6 +5,13 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <h3>💻 Skills</h3> 
 <div>
 <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
+ <img src="https://img.shields.io/badge/REACT-282a35?style=for-the-badge&logo=react" />
+ <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux" />
+ <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=nodejs" />
+ <img src="https://img.shields.io/badge/EXPRESS-282a35?style=for-the-badge&logo=expressjs" />
+ <img src="https://img.shields.io/badge/MONGODB-282a35?style=for-the-badge&logo=mongodb" />
+ <img src="https://img.shields.io/badge/PHOTOSHOP-282a35?style=for-the-badge&logo=photoshop" />
+ <img src="https://img.shields.io/badge/illustrator-282a35?style=for-the-badge&logo=illustrator" />
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" />
 <!-- <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" /> -->
 <img style="display:inline" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="50" width="50" alt="react" />
