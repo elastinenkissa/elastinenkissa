@@ -13,7 +13,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 </div>
 <h3>💻 Minor skills</h3>
 <div>
- <img src="https://img.shields.io/badge/TYPESCRIPT-282a35?style=for-the-badge&logo=TypeScript&logoColor=3178C6" />
+ <img src="https://img.shields.io/badge/TYPESCRIPT-282a35?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" />
  <img src="https://img.shields.io/badge/GRAPHQL-282a35?style=for-the-badge&logo=GraphQL" />
  <img src="https://img.shields.io/badge/POSTGRESQL-282a35?style=for-the-badge&logo=PostgreSQL" />
  <img src="https://img.shields.io/badge/CD/CD-282a35?style=for-the-badge&logo=GitHub Actions" />
