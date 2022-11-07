@@ -5,7 +5,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <h3>🖥️ Main skills</h3> 
 <div>
  <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
- <img src="https://img.shields.io/badge/REACT%20(Native)-282a35?style=for-the-badge&logo=react" />
+ <img src="https://img.shields.io/badge/REACT%20(&%20Native)-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux&logoColor=764ABC" />
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=Node.js" />
  <img src="https://img.shields.io/badge/EXPRESS-282a35?style=for-the-badge&logo=express" />
