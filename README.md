@@ -5,6 +5,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <h3>🖥️ Main skills</h3> 
 <div>
  <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
+ <img src="https://img.shields.io/badge/TYPESCRIPT-282a35?style=for-the-badge&logo=TypeScript" />
  <img src="https://img.shields.io/badge/REACT%20(&%20Native)-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/REDUX-282a35?style=for-the-badge&logo=redux&logoColor=764ABC" />
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=Node.js" />
@@ -13,7 +14,6 @@ I am CS student on my final year of study, learning and practicing fullstack web
 </div>
 <h3>💻 Minor skills</h3>
 <div>
- <img src="https://img.shields.io/badge/TYPESCRIPT-282a35?style=for-the-badge&logo=TypeScript" />
  <img src="https://img.shields.io/badge/GRAPHQL-282a35?style=for-the-badge&logo=GraphQL&logoColor=E10098" />
  <img src="https://img.shields.io/badge/POSTGRESQL-282a35?style=for-the-badge&logo=PostgreSQL" />
  <img src="https://img.shields.io/badge/CI/CD-282a35?style=for-the-badge&logo=GitHub Actions&logoColor=FFFFFF" />
