@@ -20,8 +20,3 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <img src="https://img.shields.io/badge/DOCKER-282a35?style=for-the-badge&logo=Docker" />
 </div>
 <hr />
-<h3>📊 Stats</h3>
- 
-![](https://komarev.com/ghpvc/?username=nusretWazowski)
-<br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nusretWazowski&theme=dark)](https://git.io/streak-stats)
