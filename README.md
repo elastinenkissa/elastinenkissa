@@ -26,3 +26,4 @@ I am CS student on my final year of study, learning and practicing fullstack web
   <li>Hidden gem (discover lesser-known locales)</li>
   <li>Comet forecast</li>
 </ul>
+<hr />
