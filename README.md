@@ -20,4 +20,9 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <img src="https://img.shields.io/badge/DOCKER-282a35?style=for-the-badge&logo=Docker" />
 </div>
 <hr />
- 
+<h3>📝 Planned projects</h3>
+<ul>
+  <li>Portfolio</li>
+  <li>Hidden gem (discover lesser-known locales)</li>
+  <li>Comet forecast</li>
+</ul>
