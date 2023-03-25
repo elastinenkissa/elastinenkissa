@@ -22,9 +22,12 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
+  <li>Unnamed app - Project for uni class</li>
   <li>MenuMania (restaurant ordering system) - Thesis for uni</li>
   <li>Portfolio</li>
   <li>Hidden gem (discover lesser-known locales)</li>
   <li>Comet forecast</li>
+  <li>Recipe book</li>
+  <li>Who said that? (Philosopher quote search)</li>
 </ul>
 <hr />
