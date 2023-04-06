@@ -22,8 +22,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
-  <li>Unnamed app - Project for uni class</li>
-  <li>MenuMania (restaurant ordering system) - Thesis for uni</li>
+  <li>Patientor - Project for uni class and thesis</li>
   <li>Portfolio</li>
   <li>Hidden gem (discover lesser-known locales)</li>
   <li>Recipe book</li>
