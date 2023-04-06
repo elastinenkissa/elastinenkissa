@@ -27,10 +27,10 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr />
 <h3>🔨 Projects</h3>
 <h4>Web apps</h4>
-<div>
+<ul>
  <li><a href="https://zany-puce-caterpillar-robe.cyclic.app/">Places</a></li>
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
-</div>
+</ul>
 <h4>Mobile apps</h4>
 <h4>Coming soon<h4>
 <hr />
