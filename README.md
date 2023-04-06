@@ -32,7 +32,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
 </div>
 <h4>Mobile apps</h4>
-<h4>Coming soon<h4?
+<h4>Coming soon<h4>
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
