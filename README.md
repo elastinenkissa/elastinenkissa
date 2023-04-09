@@ -31,8 +31,11 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <li><a href="https://zany-puce-caterpillar-robe.cyclic.app/">Places</a></li>
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
 </ul>
-<h4>Mobile apps</h4>
-<h4>Coming soon<h4>
+<h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
+<ul>
+ <li><a href="https://expo.dev/artifacts/eas/6qmYr96wkDHmb6wmHskqji.apk">Cafeache</a></li>
+ <li><em>To add more</em></li>
+</ul>
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
