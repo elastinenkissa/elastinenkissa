@@ -33,7 +33,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 </ul>
 <h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
 <ul>
- <li><a href="https://expo.dev/artifacts/eas/6qmYr96wkDHmb6wmHskqji.apk">Cafeache</a></li>
+ <li><a href="https://expo.dev/artifacts/eas/3PsPBjrGwqEULqsXdoRoKR.apk">Cafeache</a></li>
  <li><em>To add more</em></li>
 </ul>
 <hr />
