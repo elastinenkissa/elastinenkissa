@@ -34,6 +34,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
 <ul>
  <li><a href="https://expo.dev/artifacts/eas/3PsPBjrGwqEULqsXdoRoKR.apk">Cafe Management</a></li>
+ <li>Rate Repositories <em>(Download link coming soon)</em></li>
  <li><em>To add more</em></li>
 </ul>
 <hr />
