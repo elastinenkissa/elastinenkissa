@@ -18,6 +18,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <img src="https://img.shields.io/badge/SQL-282a35?style=for-the-badge&logo=PostgreSQL" />
  <img src="https://img.shields.io/badge/CI/CD-282a35?style=for-the-badge&logo=GitHub Actions&logoColor=FFFFFF" />
  <img src="https://img.shields.io/badge/CONTAINERS-282a35?style=for-the-badge&logo=Docker" />
+ <img src="https://img.shields.io/badge/CONTAINERS-282a35?style=for-the-badge&logo=https://th.bing.com/th/id/OIP.2XrX0fP0htyTCah7AglTigHaEc?pid=ImgDet&rs=1" />
 </div>
 <hr />
 <h3>📝 Planned skills</h3>
