@@ -31,6 +31,7 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <ul>
  <li><a href="https://zany-puce-caterpillar-robe.cyclic.app/">Places</a></li>
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
+ <li><a href="https://sensational-sprinkles-170f00.netlify.app/">Patient Monitor</a></li>
 </ul>
 <h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
 <ul>
@@ -41,7 +42,6 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
-  <li>Patientor - Project for uni class and thesis</li>
   <li>Portfolio</li>
   <li>Recipe book</li>
   <li>Hidden gem (discover lesser-known locales)</li>
