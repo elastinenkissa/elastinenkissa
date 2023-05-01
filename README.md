@@ -42,8 +42,8 @@ I am CS student on my final year of study, learning and practicing fullstack web
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
-  <li>Portfolio</li>
-  <li>Recipe book</li>
-  <li>Hidden gem (discover lesser-known locales)</li>
+  <li>Portfolio (NextJS)</li>
+  <li>Recipe Book (Angular)</li>
+  <li>Hidden Gem (React Native)</li>
 </ul>
 <hr />
