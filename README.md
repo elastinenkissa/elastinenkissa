@@ -20,7 +20,6 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <img src="https://img.shields.io/badge/CI/CD-282a35?style=for-the-badge&logo=GitHub Actions&logoColor=FFFFFF" />
  <img src="https://img.shields.io/badge/CONTAINERS-282a35?style=for-the-badge&logo=Docker" />
 </div>
-<hr />
 <h3>📝 Planned skills</h3>
 <div>
  <img src="https://img.shields.io/badge/.NET%20CORE-282a35?style=for-the-badge&logo=dotnet" />
