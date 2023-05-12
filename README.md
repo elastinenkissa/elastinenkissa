@@ -31,17 +31,17 @@ I am CS student on my final year of study, learning and practicing fullstack web
  <li><a href="https://zany-puce-caterpillar-robe.cyclic.app/">Places</a></li>
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
  <li><a href="https://sensational-sprinkles-170f00.netlify.app/">Patient Monitor</a></li>
+ <li>Quiz maker (link as soon as backend is finished)</li>
 </ul>
 <h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
 <ul>
  <li><a href="https://expo.dev/artifacts/eas/3PsPBjrGwqEULqsXdoRoKR.apk">Cafe Management</a></li>
- <li>Rate Repositories <em>(Download link coming soon)</em></li>
+ <li>Rate Repositories <em>(Download link coming soon, problems with GraphQL API)</em></li>
  <li><em>To add more</em></li>
 </ul>
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
-  <li>Quiz maker (Add backend - ???)</li>
   <li>Portfolio (NextJS)</li>
   <li>Recipe Book (Angular)</li>
   <li>Hidden Gem (React Native)</li>
