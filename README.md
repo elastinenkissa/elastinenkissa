@@ -33,17 +33,15 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
  <li><a href="https://sensational-sprinkles-170f00.netlify.app/">Patient Monitor</a></li>
  <li>Quiz maker (link as soon as backend is finished)</li>
 </ul>
-<h4>Mobile apps (APK download links until submission to Google Play Store)</h4>
+<h4>Mobile apps (APK download links)</h4>
 <ul>
  <li><a href="https://expo.dev/artifacts/eas/3PsPBjrGwqEULqsXdoRoKR.apk">Cafe Management</a></li>
- <li>Rate Repositories <em>(Download link coming soon, problems with GraphQL API)</em></li>
- <li><em>To add more</em></li>
+ <li>Rate Repositories <em>(Download link as soon as problems with GraphQL API are resolved)</em></li>
 </ul>
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
   <li>Portfolio (NextJS)</li>
-  <li>Recipe Book (Angular)</li>
-  <li>Hidden Gem (React Native)</li>
+  <li>Recipe Book (Angular + .NET Core)</li>
 </ul>
 <hr />
