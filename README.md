@@ -31,7 +31,7 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
  <li><a href="https://zany-puce-caterpillar-robe.cyclic.app/">Places</a></li>
  <li><a href="https://gilded-biscotti-ba67f2.netlify.app/">Top 10</a></li>
  <li><a href="https://sensational-sprinkles-170f00.netlify.app/">Patient Monitor</a></li>
- <li>Quiz maker (link as soon as backend is finished)</li>
+ <li>Quizmaker (link as soon as backend is finished)</li>
 </ul>
 <h4>Mobile apps (APK download links)</h4>
 <ul>
