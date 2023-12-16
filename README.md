@@ -11,10 +11,10 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
  <img src="https://img.shields.io/badge/NODEJS-282a35?style=for-the-badge&logo=Node.js" />
  <img src="https://img.shields.io/badge/EXPRESS-282a35?style=for-the-badge&logo=express" />
  <img src="https://img.shields.io/badge/MONGODB-282a35?style=for-the-badge&logo=mongodb" />
+ <img src="https://img.shields.io/badge/.NET%20CORE-282a35?style=for-the-badge&logo=dotnet" />
 </div>
 <h3>💻 Minor skills</h3>
 <div>
- <img src="https://img.shields.io/badge/.NET%20CORE-282a35?style=for-the-badge&logo=dotnet" />
  <img src="https://img.shields.io/badge/ANGULAR-282a35?style=for-the-badge&logo=Angular&logoColor=DD0031" />
  <img src="https://img.shields.io/badge/GRAPHQL-282a35?style=for-the-badge&logo=GraphQL&logoColor=E10098" />
  <img src="https://img.shields.io/badge/SQL-282a35?style=for-the-badge&logo=PostgreSQL" />
