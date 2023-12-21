@@ -31,7 +31,7 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
 </ul>
 <h4>Mobile apps (APK download links)</h4>
 <ul>
- <li><a href="https://expo.dev/artifacts/eas/3PsPBjrGwqEULqsXdoRoKR.apk">Cafe Management</a></li>
+ <li>Cafe Management <em>(Expired link, replacement soon)</em></li>
  <li>Rate Repositories <em>(Download link as soon as problems with GraphQL API are resolved)</em></li>
 </ul>
 <hr />
