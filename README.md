@@ -4,7 +4,6 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
 <hr /> 
 <h3>🖥️ Main skills</h3> 
 <div>
- <img src="https://img.shields.io/badge/JAVASCRIPT-282a35?style=for-the-badge&logo=javascript" />
  <img src="https://img.shields.io/badge/TYPESCRIPT-282a35?style=for-the-badge&logo=TypeScript" />
  <img src="https://img.shields.io/badge/REACT-282a35?style=for-the-badge&logo=react" />
  <img src="https://img.shields.io/badge/NEXTJS-282a35?style=for-the-badge&logo=nextdotjs" />
