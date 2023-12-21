@@ -37,7 +37,6 @@ I am an engineer of computer science, versed in fullstack web and mobile develop
 <hr />
 <h3>📝 Planned projects</h3>
 <ul>
-  <li>Portfolio (NextJS)</li>
   <li>Recipe Book (Angular + .NET Core)</li>
 </ul>
 <hr />
