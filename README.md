@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.stevenskelton.ca/flag-icon/png/16/country-4x3/ua.png"/> SUPPORT UKRAINE <img src="https://www.stevenskelton.ca/flag-icon/png/16/country-4x3/ua.png"/></h1>
+<h1 align="center"><img src="https://www.stevenskelton.ca/flag-icon/png/16/country-4x3/ua.png"/> <a href="https://u24.gov.ua/">SUPPORT UKRAINE<a/> <img src="https://www.stevenskelton.ca/flag-icon/png/16/country-4x3/ua.png"/></h1>
 <h3>👨‍💻 About me</h3> 
 I am an engineer of computer science, versed in fullstack web and mobile development. Currently working on personal projects to improve my skills and looking for my first job as a developer.
 <hr /> 
