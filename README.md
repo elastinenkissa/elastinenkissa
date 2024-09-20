@@ -1,5 +1,5 @@
 <h3>👨‍💻 About me</h3> 
-I am an engineer of computer science, versed in fullstack web and mobile development. Currently working on personal projects to improve my skills and looking for my first job as a developer.
+I am an engineer of computer science, versed in fullstack web and mobile development. Currently working on personal projects, as well as projects at my workplace, to improve my skills. Plan to find a job and relocate to Finland.
 <hr /> 
 <h3>🖥️ Main skills</h3> 
 <div>
